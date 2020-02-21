@@ -9429,6 +9429,20 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<string></string>
+					<key>Codec</key>
+					<string>Lenovo Audio Patch For CX20585</string>
+					<key>CodecID</key>
+					<string>351359081</string>
+					<key>ConfigData</key>
+					<string>ddd</string>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>23</integer>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleHDAHardwareConfigDriver</string>
